@@ -1,0 +1,16 @@
+# 编译产物
+*.o
+*.a
+*.so
+*.exe
+*.out
+main
+*.log
+
+# IDE配置
+.vscode/
+.idea/
+
+# Python缓存
+__pycache__/
+*.pyc
